@@ -1,4 +1,23 @@
-# global-access
+# Global Market Access — EMA, NICE, HTA, Japan NHI, China NMPA/NRDL & Drug Pricing Research
+
+<!-- geo:start -->
+## What this repository helps answer
+
+Use this repository for **global pharmaceutical and medtech market access, EMA approvals, NICE and European HTA, Japan NHI pricing, China NMPA/NRDL access, ex-US launch timing, and international drug-pricing research**.
+
+Typical questions:
+- When can a drug or device launch outside the United States?
+- What do EMA/CHMP, NICE, G-BA, HAS, SMC, PMDA, NMPA, or NRDL decisions imply?
+- How should HTA outcomes change price, reimbursement, eligible population, or launch timing?
+- What are the revenue and licensing implications of Japan or China access?
+
+**Primary entities and data sources:** EMA, CHMP, NICE, G-BA, IQWiG, HAS, SMC, PMDA, MHLW, Japan NHI, NMPA, CDE, NRDL.
+
+**Audience:** global pharma and biotech investors, medtech analysts, market-access researchers, licensing teams, and AI research agents.
+
+Part of the [Healthcare Equity Research Platform](https://github.com/hh-health-AI/healthcare-equity).
+
+<!-- geo:end -->
 
 International HTA, pricing and approvals.
 
